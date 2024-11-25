@@ -1,0 +1,14 @@
+# Set default behavior to text
+* text=auto
+
+# Explicitly declare text files
+*.js     text
+*.css    text
+*.html   text
+*.json   text
+
+# Binary files (do not modify line endings)
+*.png    binary
+*.jpg    binary
+*.gif    binary
+*.ico    binary
